@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(34, 42, 91);
+    margin: 0;
+}
+
+.main{
+    border: 4px solid blue;
+    height: 770px;
+    text-align: center;
+}
+
+.name h2{
+    color: white;
+}
+
+.name h2 b {
+    color: white;
+}
+
+.tityle {
+    color: white;
+}
+
+.pikter img{
+    margin-top: 20px;
+    height: 150px;
+    width: 150px;
+    border: 4px solid blue;
+    border-radius: 50%;
+}
+
+.h2{
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+.b{
+    color: blanchedalmond;
+}
+
+.links{
+    display: block;
+    border: 4px solid blue;
+    max-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-top: 20px;
+    transition: 0.5s;
+}
+
+.links:hover {
+    transform: scale(1.1);
+    background-color: rgb(32, 93, 248);
+}
+
+a{
+    color: antiquewhite;
+    text-decoration: none;
+    border-radius: 30px;
+}
+
+a:hover{
+    color: rgb(102, 51, 44);
+}
+
+span{
+    color: rgb(252, 9, 9);
+}
